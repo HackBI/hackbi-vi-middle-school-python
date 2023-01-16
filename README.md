@@ -30,7 +30,7 @@ Teach the participants the basics of Python, specifically the Turtle module, in 
 * Visual Studio Code is another option but I don’t know if VSC and the Python extension are on every school computer.
 
 
-##Helpful Resources to Continue Learning:
+## Helpful Resources to Continue Learning:
 Python Tutorials: https://www.w3schools.com/python/default.asp
 
 Python Command Library: https://www.python.org/
